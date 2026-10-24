@@ -72,6 +72,7 @@ console.log(foodsWithA);
 
 
 // 7. Create a new array longFoodNames for foods with names longer than 6 characters.
+//Find the food with the longest name.
 let longFoodNames = friendFavorites.filter(food =>
     food.length > 6
 );
