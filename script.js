@@ -12,7 +12,7 @@ let favoriteFoods = [
 
 // 2. Loop through the list and print: "One of my favorite foods is ______."
 for (let food of favoriteFoods) {
-  console.log("One of my favorite foods is " + food);
+  console.log("One of my favorite foods is " + food + ".");
 }
     
 
